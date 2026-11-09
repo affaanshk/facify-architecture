@@ -1,3 +1,3 @@
-# Sanitized screenshots
+# FACIFY Screenshots
 
-No screenshots are included by default. Add images only after written permission and a privacy review. Never upload real student faces, biometric data, names, IDs, attendance records, internal URLs or browser captures containing sensitive information.
+This directory contains selected screenshots of the FACIFY application interface.
