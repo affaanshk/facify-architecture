@@ -7,7 +7,6 @@
 ## Project at a glance
 
 - **Project type:** Institutional software project
-- **Role:** Lead Developer
 - **Deployment:** AWS deployment used for institutional pilot testing
 - **Pilot reach:** Tested across two institutions, covering 627+ students
 - **Core technologies:** FastAPI, PostgreSQL, pgvector, Redis, Celery, InsightFace, ONNX Runtime, OpenCV, AWS
@@ -134,7 +133,7 @@ This repository is an independently prepared, high-level technical overview for 
 ## Project Contributors
 
 - **Affaan Shaikh** — [@affaanshk](https://github.com/affaanshk)
-- **Naman Yadav** — [@naman](https://github.com/bitnaman)
+- **Naman Yadav** — [@bitnaman](https://github.com/bitnaman)
 
 ---
 
