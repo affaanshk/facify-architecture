@@ -116,6 +116,8 @@ Before making this repository public, obtain any required written approval from 
 
 ![FACIFY Landing Page](screenshots/landing-page.png)
 
+*Note: Performance figures displayed in this landing-page visual are interface demonstration claims and should not be interpreted as independently validated pilot results.*
+
 ### 2. Attendance Management Dashboard
 
 ![Attendance Dashboard](screenshots/attendance-dashboard.png)
