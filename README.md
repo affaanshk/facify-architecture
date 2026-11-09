@@ -134,7 +134,7 @@ This repository is an independently prepared, high-level technical overview for 
 ## Project Contributors
 
 - **Affaan Shaikh** — [@affaanshk](https://github.com/affaanshk)
-- **Naman Yadav** — [GitHub Profile](https://github.com/bitnaman)
+- **Naman Yadav** — [@naman](https://github.com/bitnaman)
 
 ---
 
