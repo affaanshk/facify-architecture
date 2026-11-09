@@ -84,19 +84,17 @@ This table is an architectural summary, not a complete deployment specification.
 
 Only technologies that are part of the described project are listed here. This repository deliberately omits configuration values, exact endpoints, thresholds, schema definitions, network topology and security implementation details.
 
-## Patent information
+## Patent Information
 
-**Published Indian Patent Application:** 202521132881  
-**Title:** *Context-Aware Multimodal Biometric Attendance System with Adaptive Sensing and Blockchain-Backed Verification*  
-**Filing date:** 29 December 2025  
-**Publication date:** 5 June 2026  
-**Status shown in the supplied IP India application-status screenshot:** *Awaiting Request for Examination*
+**Published Indian Patent Application:** 202521132881
 
-[Open the IP India Patent Application Status portal](https://ipresearch.ipindia.gov.in/PatentSearch/PatentSearch/ViewApplicationStatus)
+**Title:** *Context-Aware Multimodal Biometric Attendance System with Adaptive Sensing and Blockchain-Backed Verification*
 
-> The portal is a general application-status search page. Enter application number **202521132881** manually to retrieve the record. The status above reflects the screenshot supplied for this documentation and may change; consult the official portal for the latest status.
+**Publication Date:** 5 June 2026
 
-This is a published application, **not a statement that a patent has been granted**. The official patent record lists multiple applicants. Refer to the official record for the complete applicant details and legal status.
+[View Patent Application Status — IP India](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus)
+
+*Enter application number 202521132881 on the official portal to view the application details and current status.*
 
 ## Repository scope and publication boundary
 
