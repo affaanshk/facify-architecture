@@ -111,9 +111,19 @@ This repository is intended to demonstrate system-level engineering and project 
 
 Before making this repository public, obtain any required written approval from the institution and relevant project/patent stakeholders. A published patent application does not automatically authorize publication of institution-owned software, screenshots, internal documentation or confidential implementation details.
 
-## Screenshots
+## Product Showcase
 
-The `screenshots/` directory is intentionally empty. Add only sanitized screenshots that you are authorized to publish. Remove names, faces, IDs, class details, timestamps tied to real students, browser tabs, URLs, notifications and other identifying information before adding any image.
+### 1. FACIFY — Landing Page
+
+![FACIFY Landing Page](screenshots/landing-page.png)
+
+### 2. Attendance Management Dashboard
+
+![Attendance Dashboard](screenshots/attendance-dashboard.png)
+
+### 3. Student Registration
+
+![Student Registration](screenshots/student-registration.png)
 
 ## Disclaimer
 
@@ -121,5 +131,11 @@ This repository is an independently prepared, high-level technical overview for 
 
 ---
 
-**Maintainer:** Affaan Shaikh  
-**GitHub:** [@affaanshk](https://github.com/affaanshk)
+## Project Contributors
+
+- **Affaan Shaikh** — [@affaanshk](https://github.com/affaanshk)
+- **Naman Yadav** — [GitHub Profile](Naman's-GitHub-URL)
+
+---
+
+**Maintained by:** Affaan Shaikh
